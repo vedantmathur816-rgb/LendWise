@@ -1,0 +1,1 @@
+Add your loan_borowwer_data.csv dataset to this folder and rename it to loan_borrower_data.csv to run the notebook without changing DATA_PATH.
