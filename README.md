@@ -1,2 +1,13 @@
 # LendWise
-## Loan Default Prediction  Developed a **machine learning model for loan default prediction** to help PeerLoanKart identify high-risk borrowers and make better lending decisions.  ### Key Highlights  * Performed **data cleaning and exploratory data analysis**.   **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+## Loan Default Prediction
+
+Machine learning project for predicting **loan repayment risk** and identifying borrowers who are less likely to fully repay their loans.
+
+### Highlights
+
+* Cleaned and analyzed borrower financial data.
+* Performed EDA and cross-validation.
+* Compared **Decision Tree, Random Forest, and Gradient Boosting**.
+
+**Tech:** Python • Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn
+
